@@ -214,15 +214,8 @@ footer {
 
 @media (max-width: 860px) {
   .topbar { padding: 12px 16px 14px; }
-  .top-contact, .topbar nav { display: none; }
-  .menu-btn { display: block; }
-  .topbar.open nav,
-  .topbar.open .top-contact {
-    display: flex;
-    flex-direction: column;
-    width: 100%;
-    gap: 10px;
-  }
+  .top-row { display: none; }
+  .logo { margin-top: 0; }
   .hero h1 { font-size: 32px; }
   .hero { padding: 56px 18px 48px; }
   .slider { height: 240px; }
