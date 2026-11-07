@@ -32,7 +32,7 @@ img { max-width: 100%; display: block; }
 }
 
 .logo { margin-top: 14px; }
-.logo img { height: 55px; width: auto; }
+.logo img { height: 100px; width: auto; }
 
 .topbar nav {
   display: flex;
